@@ -1,0 +1,1 @@
+Acrux.php is the main php which handle the whole api process
